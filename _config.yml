@@ -1,9 +1,9 @@
 # Meta
-description: Private theme for artifact.me
-keywords: hexo,theme,artifact,otakism
+description: aimkiray in akari
+keywords: aimkiray,akari,neko,pigeons
 
 # Author
-author_avatar: /img/avatar.png
+author_avatar: /images/avatar.jpg
 
 # Search
 search: 
@@ -37,7 +37,7 @@ valine:
   appkey:
   notify: false
   verify: false
-  placeholder: Just go go
+  placeholder: 咕咕咕
   avatar: retro
   guest_info: nick,mail,link
   pageSize: 10
@@ -46,13 +46,13 @@ valine:
 # use url, not username
 social:
 - name: feed
-	url: /atom.xml
-- name: email
-  url: 
+	url: 
+- name: mail
+  url: root@meowwoo.com
 - name: github
-  url: https://github.com/artchen
+  url: https://github.com/aimkiray
 - name: twitter
-  url: 
+  url: https://twitter.com/aimkiray
 - name: google
   url: 
 - name: facebook
